@@ -1,0 +1,41 @@
+Python 설치방법
+
+1. pip3 install 설치할 모듈명
+   예)pip3 install bs4
+
+  => 설치 위치 : C:\Python\Python36-32\Lib\site-packages
+
+
+
+
+2. anaconda에서 설치
+  conda install 모듈명
+
+  => 설치위치 : C:\ProgramData\Anaconda3\Lib\site-packages
+
+
+
+
+3. Pycham 설치
+  file/settings/project interpter/+ 모듈선택
+  => 설치위치 : \venv\Lib\site-packages
+
+
+
+
+python 
+ㅇ 기본 자료형 4가지
+1. 정수형 : int - 10진법, 자릿수와 상관없이 지수형으로 변경없이 사용가능
+2. 실수형 : float
+3. 참거짓 : boolean
+4. none
+
+
+ㅇ 자료구조
+1. list : [], list() - 배열, 순서형자료, 수정삭제추가 가능
+2. 딕셔너리 : {}, 사전형, Key:values 쌍구조, 순서형 자료, 수정삭제추가 가능, 단 key를 생략하면 randome
+3. 튜플 : (), randome, 수정삭제추가 불가, 
+4. 집합자료 : set, 교집합, 차집합, 합집합
+
+
+
